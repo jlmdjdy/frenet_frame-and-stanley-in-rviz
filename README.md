@@ -4,11 +4,11 @@
 ### (given global map and global path to be tracked)
 
 
-* find possible candidate paths selected under constraint conditions. (max accelrations, max velocity, max curvature, collisions with obstacles) - cand_paths
+1. find possible candidate paths selected under constraint conditions. (max accelrations, max velocity, max curvature, collisions with obstacles) - cand_paths
 
-* find optimal paths among cand_paths, which has lowest cost among costs of cand_paths taking consistency of path, jerk, time lapsed, target velocity and global path tracking performance.
+2. find optimal paths among cand_paths, which has lowest cost among costs of cand_paths, taking several performance factors such as consistency of path, jerk, time lapsed, target velocity and global path tracking performance into account.
 
-* get actuation values
+3. get actuation values
 
     - get acceleration with pid control to get to the target speed given difference to target speed(for p), difference to previous velocity(for d) and accumulated difference to target speed(for i) - longitudinal control
 
