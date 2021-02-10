@@ -18,4 +18,4 @@
 
 ### results
 
-[![20km/h](https://www.youtube.com/vi/2tYRtg-Atvw/0.jpg)](https://www.youtube.com/watch?v=2tYRtg-Atvw)
+[![20km/h](https://img.youtube.com/vi/2tYRtg-Atvw/sddefault.jpg)](https://www.youtube.com/watch?v=2tYRtg-Atvw)
