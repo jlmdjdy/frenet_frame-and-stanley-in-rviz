@@ -22,14 +22,10 @@
 ***
 
 ### results
-1.20km/h with 5 d valuse in sd coordinate in df_set                             
-2.30km/h with 3 d values in sd coordinate in df_set
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+1.20km/h with 5 d valuse in sd coordinate in df_set, click on the iamge below!                         
 
-[![20km/h](https://img.youtube.com/vi/2tYRtg-Atvw/0.jpg)](https://www.youtube.com/watch?v=2tYRtg-Atvw) [![30km/h](https://img.youtube.com/vi/J3nuulkmOPE/0.jpg)](https://www.youtube.com/watch?v=J3nuulkmOPE)2
+[![20km/h](https://img.youtube.com/vi/2tYRtg-Atvw/0.jpg)](https://www.youtube.com/watch?v=2tYRtg-Atvw) 
+
+2.30km/h with 3 d values in sd coordinate in df_set, click on the image below!
+
+[![30km/h](https://img.youtube.com/vi/J3nuulkmOPE/0.jpg)](https://www.youtube.com/watch?v=J3nuulkmOPE)
