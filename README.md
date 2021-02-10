@@ -12,7 +12,7 @@
 
     - get acceleration with pid control to get to the target speed given difference to target speed(for p), difference to previous velocity(for d) and accumulated difference to target speed(for i) - longitudinal control
 
-    - get steering angle with stanley control given x, y, s points of the optimal path to be tracked and currnet x, y, yaw, v(speed) - lateral control
+    - get steering angle with stanley control given x, y points and yaws of the optimal path to be tracked and currnet x, y, yaw, v(speed) - lateral control
 
 
 
