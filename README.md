@@ -16,6 +16,14 @@
 
 
 
+
+#### commands to start the simulation
+
+```
+roscd cd_agents/launch && roslaunch launch_all.launch
+```
+
+
 ![demo](https://github.com/jlmdjdy/frenet_frame-and-stanley-in-rviz/blob/main/frenet_20.gif)
 
 
