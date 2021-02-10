@@ -1,0 +1,8 @@
+prefix=/home/jdy/project_ws/devel
+
+Name: cv_agents
+Description: Description of cv_agents
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

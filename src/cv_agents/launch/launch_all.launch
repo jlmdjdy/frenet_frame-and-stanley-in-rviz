@@ -1,0 +1,12 @@
+<launch>
+
+	<node name="map_visualizer" pkg="map_server" type="map_visualizer.py" />
+
+	<node name="parking_car" pkg="obstacles" type="parking_car.py" />
+	<node name="collision_check" pkg="obstacles" type="collision_check_with_visualizing_car.py" />
+	
+	<node name="spawn_agents" pkg="cv_agents" type="spawn_agent.py" output="screen"/>
+
+	<node name="rviz" pkg="rviz" type="rviz" required="True" args="~/project_ws/src/cv_agents/rviz/rviz.config.rviz" />
+	
+</launch>

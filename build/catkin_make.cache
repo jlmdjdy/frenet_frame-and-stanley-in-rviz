@@ -1,0 +1,2 @@
+custom_msgs/object_msgs:cv_agents:map_server:obstacles:plan_control
+-DCATKIN_DEVEL_PREFIX=/home/jdy/project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jdy/project_ws/install -G Unix Makefiles

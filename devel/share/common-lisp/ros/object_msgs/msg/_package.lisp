@@ -1,0 +1,27 @@
+(cl:defpackage object_msgs-msg
+  (:use )
+  (:export
+   "<CONTROL>"
+   "CONTROL"
+   "<DEBUGPREDICTION>"
+   "DEBUGPREDICTION"
+   "<OBJECT>"
+   "OBJECT"
+   "<PLANNINGDEBUG>"
+   "PLANNINGDEBUG"
+   "<POLYGON>"
+   "POLYGON"
+   "<POLYGONARRAY>"
+   "POLYGONARRAY"
+   "<PREDICTION>"
+   "PREDICTION"
+   "<PREDICTIONS>"
+   "PREDICTIONS"
+   "<TRAJECTORY>"
+   "TRAJECTORY"
+   "<TRAJECTORY>"
+   "TRAJECTORY"
+   "<TRAJECTORY_ARRAY>"
+   "TRAJECTORY_ARRAY"
+  ))
+
